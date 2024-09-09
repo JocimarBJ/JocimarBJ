@@ -1,7 +1,8 @@
 # Jocimar (Júnior)
 
 ### Estudante de Engenharia de Software (4° Período)
-![Linkedin Logo](https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/)
+![Linkedin](https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/)
+!Linkedin
 
 Meu nome é Jocimar Borges Júnior, ou “Júnior” (é como costumam me chamar). Sou Estudante do curso de Engenharia de Software na UTFPR-CP (Universidade Tecnológica Federal do Paraná). Tenho 19 anos e busco Estágio como Developer FullStack Web ou Developer Java, além de Cargos Júnior. Sou extremamente apaixonado por café e cultura japonesa.
 
