@@ -3,7 +3,7 @@
 ### Estudante de Engenharia de Software (4° Período)
 [![Linkedin]]()
 
-## Me siga nas redes sociais
+## Me siga nas redes soeeciais
 
 !LinkedIn
 !Instagram
