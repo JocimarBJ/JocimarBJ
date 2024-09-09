@@ -1,7 +1,13 @@
 # Jocimar (Júnior) 
 ### Estudante de Engenharia de Software (4° Período)
 <a href="https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-HexaCorFundo?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:jocimarjuniorrr6@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/junior.bj18/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-lightcoral?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
 </a>
 <br>
 Meu nome é Jocimar Borges Júnior, ou “Júnior” (é como costumam me chamar). Sou Estudante do curso de Engenharia de Software na UTFPR-CP (Universidade Tecnológica Federal do Paraná). Tenho 19 anos e busco Estágio como Developer FullStack Web ou Developer Java, além de Cargos Júnior. Sou extremamente apaixonado por café e cultura japonesa.
