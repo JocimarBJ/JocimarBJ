@@ -2,17 +2,19 @@
 <h1 align="center"> 💻<br>🔴 Portfólio - Jocimar B. Júnior 🔴 </h1>
 <img src="https://github.com/user-attachments/assets/3985a9a3-fef7-4685-adb1-b87aa9125cd7" target="_blank">
 
-<div align="center">
-<a href="https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:jocimarjuniorrr6@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank">
-</a>
-<a href="https://www.instagram.com/junior.bj18/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
-</a>
-  
+<div class="contatos" align="center">
+<br>
+  <h3> 📞 Contato </h3>
+  <a href="https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:jocimarjuniorrr6@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/junior.bj18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
+  </a>
+    
 </div>
 <br>
 <h2>⭐ Sobre mim ⭐</h2>
