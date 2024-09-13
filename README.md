@@ -2,9 +2,9 @@
 <h1 align="center"> 💻<br>🔴 Portfólio - Jocimar B. Júnior 🔴 </h1>
 <img src="https://github.com/user-attachments/assets/3985a9a3-fef7-4685-adb1-b87aa9125cd7" target="_blank">
 
-<div class="contatos" align="center">
+<div class="contatos">
 <br>
-  <h3> 📞 Contato </h3>
+  <h2> 📞 Contato </h2>
   <a href="https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
