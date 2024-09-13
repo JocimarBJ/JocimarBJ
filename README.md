@@ -40,7 +40,7 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
     👨‍💻 Tecnologias:
   </h3>
 
-  - [ ] <img src="https://img.shields.io/badge/Javascript-181818.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/><br>
+  - [ ] <img src="https://img.shields.io/badge/Javascript-181818.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   - [X] <img src="https://img.shields.io/badge/Html5-181818.svg?style=flat-square&logo=html5&logoColor=%23E34F26"/>
   - [X] <img src="https://img.shields.io/badge/Css3-181818.svg?style=flat-square&logo=css3&logoColor=%231572B6"/>
   - [X] <img src="https://img.shields.io/badge/Linguagem C-181818.svg?style=flat-square&logo=c&logoColor=%233776AB"/>
@@ -57,7 +57,15 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
   - [X] <img src="https://img.shields.io/badge/Monday-181818.svg?style=flat-square&logo=awsorganizations&logoColor=ff7f1a"/>
   - [X] <img src="https://img.shields.io/badge/Pycharm-181818.svg?style=flat-square&logo=pycharm&logoColor=white"/>
   - [X] <img src="https://img.shields.io/badge/VS Code-181818.svg?style=flat-square&logo=htmx&logoColor=007ACC"/>
+  - [X] <img src="https://img.shields.io/badge/Pacote Office-181818.svg?style=flat-square&logo=onlyoffice&logoColor=green"/>
 
+  <h3>
+    📕 Estudando:
+  </h3>
+  
+  - [X] <img src="https://img.shields.io/badge/Desenvolvimento Web (FullStack)-181818.svg?style=flat-square&logo=wikiquote&logoColor=lightblue"/>
+  - [X] <img src="https://img.shields.io/badge/UX/UI Design-181818.svg?style=flat-square&logo=codeblocks&logoColor=pink"/>
+  - [X] <img src="https://img.shields.io/badge/Qualidade de Software (ISO's)-181818.svg?style=flat-square&logo=quicklook&logoColor=red"/>
   
 </p>
 <!---
