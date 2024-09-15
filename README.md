@@ -1,5 +1,5 @@
 <h3 align="center"> 🚧 Em Construção 🚧 </h3>
-<h1 align="center"> 💻<br>🔴 Portfólio - Jocimar B. Júnior 🔴 </h1>
+<h1 align="center"> 💻<br>🔴 Portfólio 🔴 </h1>
 <img src="https://github.com/user-attachments/assets/3985a9a3-fef7-4685-adb1-b87aa9125cd7" target="_blank">
 
 <div class="contatos">
