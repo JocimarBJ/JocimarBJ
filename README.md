@@ -5,16 +5,16 @@
 <div class="contatos">
 <br>
   <h2> 📞 Contato </h2>
-  <a href="https://www.linkedin.com/in/jocimar-borges-j%C3%BAnior-b14650298/" target="_blank">
+  <a href="https://www.linkedin.com/in/JocimarBJ/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:jocimarjuniorrr6@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/junior.bj18/" target="_blank">
+  <a href="https://www.instagram.com/junior.bj20/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://t.me/jocimarjunior" target="_blank">
+  <a href="https://t.me/JocimarBJ" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-royalblue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a>
     
