@@ -40,12 +40,13 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
     👨‍💻 Tecnologias:
   </h3>
 
-  - [ ] <img src="https://img.shields.io/badge/Javascript-181818.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  - [X] <img src="https://img.shields.io/badge/Javascript-181818.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   - [X] <img src="https://img.shields.io/badge/Html5-181818.svg?style=flat-square&logo=html5&logoColor=%23E34F26"/>
   - [X] <img src="https://img.shields.io/badge/Css3-181818.svg?style=flat-square&logo=css3&logoColor=%231572B6"/>
   - [X] <img src="https://img.shields.io/badge/Linguagem C-181818.svg?style=flat-square&logo=c&logoColor=%233776AB"/>
-  - [X] <img src="https://img.shields.io/badge/Sql-181818.svg?style=flat-square&logo=sqlite&logoColor=royalblue"/>
+  - [X] <img src="https://img.shields.io/badge/MySQL-181818.svg?style=flat-square&logo=sqlite&logoColor=royalblue"/>
   - [X] <img src="https://img.shields.io/badge/Java-181818.svg?style=flat-square&logo=gitea&logoColor=lightblue"/>
+  - [X] Postgree SQL
 
   <h3>
     🛠️ Ferramentas:
