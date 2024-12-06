@@ -1,6 +1,6 @@
 <h3 align="center"> 🚧 Em Construção 🚧 </h3>
 <h1 align="center"> 💻<br>🔴 Portfólio 🔴 </h1>
-<img src="https://github.com/user-attachments/assets/3985a9a3-fef7-4685-adb1-b87aa9125cd7" target="_blank">
+<img src="https://github.com/user-attachments/assets/06cd60d8-eeb2-47d2-8261-5be0cd3f278c" target="_blank">
 
 <div class="contatos">
 <br>
