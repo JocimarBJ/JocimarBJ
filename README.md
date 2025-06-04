@@ -28,9 +28,10 @@
 - Meu nome é Jocimar Borges Júnior, ou “Júnior” (é como costumam me chamar).<br>
   - Sou Estudante do curso de Engenharia de Software na UTFPR-CP (Universidade Tecnológica Federal do Paraná).<br>
   - Nasci em 2005 e busco Estágio como Fullstack Web Developer ou na área de dados.<br>
-  - Sou extremamente apaixonado por café e cultura japonesa.
+  - Sou extremamente apaixonado por café e cultura japonesa. Acho incrível!
 
-Minha primeira experiência com algum código foi na época em que todos tinham um site Wix. Lembro-me de tentar encontrar uma maneira de mudar os elementos, personalizá-los mais e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem via o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como um quebra-cabeça, você começa peça por peça e ninguém entende o que está se formando, no começo é feio, é estranho e... Pronto! Você termina com uma obra de arte feita de códigos.
+Minha primeira experiência com algum código foi na época em que todos tinham um site Wix. Lembro-me de tentar encontrar uma maneira de mudar os elementos, personalizá-los mais e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem via o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível.
+É como um quebra-cabeça, você começa peça por peça e ninguém entende o que está se formando, no começo é feio, é estranho e... Pronto! Você termina com uma obra de arte feita de códigos.
 </p>
 
 ***
@@ -69,9 +70,11 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
     📕 Estudando:
   </h3>
   
-  - [X] <img src="https://img.shields.io/badge/Desenvolvimento Web (FullStack)-181818.svg?style=flat-square&logo=wikiquote&logoColor=lightblue"/>
-  - [X] <img src="https://img.shields.io/badge/UX/UI Design-181818.svg?style=flat-square&logo=codeblocks&logoColor=pink"/>
+  - [X] <img src="https://img.shields.io/badge/Desenvolvimento Web (FullStack)-181818.svg?style=flat-square&logo=chromewebstore&logoColor=yellow"/>
+  - [X] <img src="https://img.shields.io/badge/UX/UI Design-181818.svg?style=flat-square&logo=materialdesignicons&logoColor=pink"/>
   - [X] <img src="https://img.shields.io/badge/Qualidade de Software (ISO's)-181818.svg?style=flat-square&logo=quicklook&logoColor=red"/>
+  - [X] <img src="https://img.shields.io/badge/Arquitetura de Software-181818.svg?style=flat-square&logo=internetarchive&logoColor=cyan"/>
+  - [X] <img src="https://img.shields.io/badge/Inteligências Artificiais-181818.svg?style=flat-square&logo=chatbot&logoColor=green"/>
   
 </p>
 <!---
