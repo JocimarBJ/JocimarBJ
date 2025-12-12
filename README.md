@@ -51,6 +51,12 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
   - [X] <img src="https://img.shields.io/badge/PostgreeSQL-181818.svg?style=flat-square&logo=postgresql&logoColor=white"/>
   - [X] <img src="https://img.shields.io/badge/GIT/GitFlow-181818.svg?style=flat-square&logo=git&logoColor=orange"/>
   - [X] <img src="https://img.shields.io/badge/GitHub-181818.svg?style=flat-square&logo=github&logoColor=white"/>
+  - [x] React
+  - [x] Express
+  - [x] NodeJS
+  - [x] NextJS
+  - [x] API RESTful
+  - [x] Sequelize
 
   <h3>
     🛠️ Ferramentas:
