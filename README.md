@@ -4,7 +4,7 @@
 
 <div class="contatos">
 <br>
-  <h2> 📞 Contato </h2>
+  <h2> 📞 Entre em Contato </h2>
   <a href="https://www.linkedin.com/in/JocimarBJ/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
