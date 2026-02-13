@@ -1,28 +1,28 @@
-<h3 align="center"> 🚧 Em Construção 🚧 </h3>
-<h1 align="center"> 💻<br>🔴 Portfólio 🔴 </h1>
-<img src="https://github.com/user-attachments/assets/06cd60d8-eeb2-47d2-8261-5be0cd3f278c" target="_blank">
-
-<br>
+# 👋 Hello, I'm Jocimar!
 <div align="center">
-  <h2> 📞 Entre em Contato </h2>
-    <a href="https://www.linkedin.com/in/JocimarBJ/" target="_blank">
-      <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:jocimarjuniorrr6@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/junior.bj20/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/JocimarBJ" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-royalblue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontColor=ffffff&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false">
 </div>
-<br>
+
+
+***
+<div align="center">
+
+|🔗| <a href="https://www.linkedin.com/in/JocimarBJ/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=theconversation&logoColor=white" target="_blank"></a>|<a href="mailto:jocimarjuniorrr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank"></a>  |  <a href="https://t.me/JocimarBJ" target="_blank"><img src="https://img.shields.io/badge/Telegram-royalblue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  |  <a href="https://t.me/JocimarBJ" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a> | <a href="https://anyflip.com/vzgmz/bgkh/" target="_blank"><img src="https://img.shields.io/badge/My book-2d15a8?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a> | <a href="" target="_blank"><img src="https://img.shields.io/badge/My TCC-64b47c?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>| <a href="" target="_blank"><img src="https://img.shields.io/badge/My Degree-c79800?style=for-the-badge&logo=checkmarx&logoColor=white" target="_blank"></a>
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
+</div>
 
 ***
 
-<h3>⭐ Sobre mim ⭐</h3>
+
+<div align="center">
+<img width="605" height="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JocimarBJ&theme=nord_dark" alt="Profile Details" /><br>
+<img width="300" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JocimarBJ&theme=nord_dark&utcOffset=8" alt="Repo per Language"/> <img width="300" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JocimarBJ&theme=nord_dark&utcOffset=8" alt="Most Commit Language"/>
+</div>
+
+***
+
+### ⭐ Sobre mim
 <p>
 - Meu nome é Jocimar Borges Júnior, ou “Júnior” (é como costumam me chamar).<br>
   - Sou Estudante do curso de Engenharia de Software na UTFPR-CP (Universidade Tecnológica Federal do Paraná).<br>
@@ -34,20 +34,34 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
 </p>
 
 ***
-|<h3>💼 Experiências</h3>| <h3> 🔗Link</h3> | <h3> ❓Sobre</h3> |
+
+### 📄 Certificações
+
+<a href="https://www.credly.com/badges/dffd02e0-0998-40b2-a280-797a02c32e9a/linked_in_profile">
+  <img src="https://github.com/user-attachments/assets/428678af-9fed-430e-9167-1c4b58f1deb2" width="120">
+</a>
+<a href="https://www.credly.com/badges/6bd30451-fcaa-4b9f-8ee6-b8a1c206cd35/linked_in_profile">
+  <img src="https://github.com/user-attachments/assets/88919135-f944-4c44-8aad-1e63c7e241d6" width="120">
+</a>
+
+***
+
+### 💼 Trabalhos & Experiências
+| Nome | Link | Sobre |
 |:-:|:-:|:-:|
 |<img width="130" height="130" alt="Capa O livro dos Ratos Pensantes" src="https://github.com/user-attachments/assets/1b655dda-89dd-45d5-b9c9-7f0e981cdeae" /><br>Autoria: O Livro dos Ratos Pensantes| <a href="https://inteligentehub.com.br/book.html" target="_blank" rel="noopener noreferrer nofollow author" title="Site do Livro">Site do Livro</a><br><a href="https://anyflip.com/vzgmz/bgkh/" title="E-book Completo (Anyflip)">E-book Completo</a>| Infantojuvenil<br>Inteligência Artificial<br>Conceitos Didáticos
 |<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/8db151d0-be85-4eda-b7a7-175177a95a3a" /><br>Pós-Júnior (Ex Membro) da Empresa Júnior Unect|<a href="https://www.instagram.com/unectjr/">Instagram Oficial</a><br><a href="https://www.linkedin.com/company/unectjr/posts/?feedView=all">LinkedIn</a>| Desenvolvimento Web<br>Desenvolvimento Mobile<br>Consultoria<br>Análise e Inovação (IA e BigData)|
 |<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/21bbc6ad-08c4-4248-9f4d-d522f7f9c1b3" /><br>Estágio Engenharia de Dados na Compass Uol|<a href="https://scholarship.compass.uol/main" title="Scholarship CompassUol AIR Company">Scholarship Compass</a><br><a href="https://www.linkedin.com/company/compass-uol/posts/?feedView=all" title="LinkedIn Compass Uol">LinkedIn</a>|Análise de Dados<br>AWS Cloud Data Engineering|
 |<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/4be29be0-f000-4976-bc00-bea230582ed8" /><br>Participação no Projeto de Extensão InteliGente|<a href="https://inteligentehub.com.br/" title="Site Oficial">LinkedIn</a><br><a href="https://www.youtube.com/@InteliGente-AI" title="Canal do Youtube (InteliGente-AI)">Canal do Youtube</a>| Inteligência Artificial<br>Desenvolvimento<br>Impacto Social Global<br>Democratização das IAs
 
-<p align="left">
-
 ***
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,express,nextjs,aws,docker,kubernetes,mysql,postgresql,git,figma,java,c,latex,androidstudio,pycharm,)](https://skillicons.dev)
 
+<div align="center">
+  
 |  <h3>👨‍💻 Tecnologias</h3>| <h3>🛠️ Ferramentas</h3>|<h3>📕 Estudando</h3>|
 |:-:|:-:|:-:|
-|<img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=F7DF1E"/>|<img src="https://img.shields.io/badge/Figma-181818.svg?style=flat-square&logo=figma&logoColor=F24E1E"/>|<img src="https://img.shields.io/badge/Desenvolvimento Web (FullStack)-181818.svg?style=flat-square&logo=chromewebstore&logoColor=yellow"/>|
+|<img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="center"> JavaScript|<img src="https://img.shields.io/badge/Figma-181818.svg?style=flat-square&logo=figma&logoColor=F24E1E"/>|<img src="https://img.shields.io/badge/Desenvolvimento Web (FullStack)-181818.svg?style=flat-square&logo=chromewebstore&logoColor=yellow"/>|
 |<img src="https://img.shields.io/badge/Linguagem HTML5-181818.svg?style=flat-square&logo=html5&logoColor=%23E34F26"/>|<img src="https://img.shields.io/badge/Canva-181818.svg?style=flat-square&logo=canva&logoColor=B29DD9"/>|<img src="https://img.shields.io/badge/UX/UI Design-181818.svg?style=flat-square&logo=materialdesignicons&logoColor=pink"/>
 |<img src="https://img.shields.io/badge/Linguagem CSS3-181818.svg?style=flat-square&logo=css3&logoColor=%231572B6"/>|<img src="https://img.shields.io/badge/Notion-181818.svg?style=flat-square&logo=notion&logoColor=white"/>|<img src="https://img.shields.io/badge/Qualidade de Software (ISO's)-181818.svg?style=flat-square&logo=quicklook&logoColor=red"/>
 |<img src="https://img.shields.io/badge/Linguagem C-181818.svg?style=flat-square&logo=c&logoColor=%233776AB"/>|<img src="https://img.shields.io/badge/Monday-181818.svg?style=flat-square&logo=awsorganizations&logoColor=ff7f1a"/>|<img src="https://img.shields.io/badge/Arquitetura de Software-181818.svg?style=flat-square&logo=internetarchive&logoColor=cyan"/>
@@ -64,8 +78,6 @@ Minha primeira experiência com algum código foi na época em que todos tinham 
 |API RESTful|
 |Sequelize|
 
-  
-</p>
 <!---
 JocimarBJ/JocimarBJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
