@@ -1,5 +1,5 @@
 <!---------------- INTRODUCTION ---------------->
-# 👋 Hello, I'm Jocimar! ![](https://komarev.com/ghpvc/?username=JocimarBJ&color=88c0d0&) ![followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0)
+# 👋 Hello, I'm Jocimar! ![](https://komarev.com/ghpvc/?username=JocimarBJ&color=88c0d0&) ![followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0) ![followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontColor=ffffff&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false">
@@ -22,8 +22,7 @@
   </table>
 
 <!---------------- STATS AND INFOS ---------------->
-<img width="390" src="https://streak-stats.demolab.com/?user=JocimarBJ&theme=tokyonight&background=2e3440&ring=88c0d0&currStreakLabel=ffffff&currStreakNum=ffffff">  
-<img width="540" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JocimarBJ&theme=nord_dark" alt="Profile Details">
+<img width="605" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JocimarBJ&theme=nord_dark" alt="Profile Details"><br>
 <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JocimarBJ&theme=nord_dark&utcOffset=8" alt="Repo per Language">  
 <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JocimarBJ&theme=nord_dark&utcOffset=8" alt="Most Commit Language">  
 
