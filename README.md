@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Jocimar! ![](https://komarev.com/ghpvc/?username=JocimarBJ&color=88c0d0&) ![Followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:f4a274,50:cd7ed7,100:55bac9&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false&stroke=00d5ff&fontColor=ffffff&strokeWidth=1">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:f4a274,50:cd7ed7,100:55bac9&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false&stroke=00d5ff&fontColor=d8d8da&strokeWidth=1">
 </div>
 
 ***
