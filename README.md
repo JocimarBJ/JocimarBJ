@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Jocimar! ![](https://komarev.com/ghpvc/?username=JocimarBJ&color=88c0d0&) ![Followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontColor=ffffff&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:f4a274,50:cd7ed7,100:55bac9&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false&stroke=00d5ff&fontColor=ffffff&strokeWidth=1">
 </div>
 
 ***
@@ -163,10 +163,11 @@ It’s like a puzzle: you start piece by piece, no one understands what’s bein
 |<img title="GIT" alt="GIT" src="https://skillicons.dev/icons?i=git&theme=light" width="35" height="35">|
 |<img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=light" width="35" height="35">
 
+***
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f4a274,50:cd7ed7,100:55bac9&text=☕%20💭-nl-CODE%20IS%20POETRY%20FOR%20THE%20MIND&section=footer&fontSize=30&textBg=false&stroke=000000&strokeWidth=0.5">
+</div>
 <!---
 JocimarBJ/JocimarBJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
