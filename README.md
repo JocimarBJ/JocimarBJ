@@ -1,5 +1,5 @@
 <!---------------- INTRODUCTION ---------------->
-# 👋 Hello, I'm Jocimar! ![](https://komarev.com/ghpvc/?username=JocimarBJ&color=88c0d0&) ![Followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0) ![followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0)
+# 👋 Hello, I'm Jocimar! ![](https://komarev.com/ghpvc/?username=JocimarBJ&color=88c0d0&) ![Followers](https://img.shields.io/github/followers/JocimarBJ?style=default&color=88c0d0)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=FROM%20CODE%20TO%20INTELLIGENT%20SYSTEMS&section=header&reversal=false&fontColor=ffffff&fontSize=40&desc=Software%20Engineer%20•%20Data%20•%20Cloud%20•%20AI&textBg=false">
