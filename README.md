@@ -166,7 +166,7 @@ It’s like a puzzle: you start piece by piece, no one understands what’s bein
 ***
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f4a274,50:cd7ed7,100:55bac9&text=☕%20💭-nl-CODE%20IS%20POETRY%20FOR%20THE%20MIND&section=footer&fontSize=30&textBg=false&stroke=000000&strokeWidth=1.7&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f4a274,50:cd7ed7,100:55bac9&text=☕%20💭-nl-CODE%20IS%20POETRY%20FOR%20THE%20MIND&section=footer&fontSize=30&textBg=false&stroke=00d5ff&strokeWidth=1.7&fontColor=a1d6da">
 </div>
 <!---
 JocimarBJ/JocimarBJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
