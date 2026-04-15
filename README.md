@@ -15,9 +15,9 @@
       <td align="center"><a href="https://www.linkedin.com/in/JocimarBJ/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=theconversation&logoColor=white"> </a></td>
       <td align="center"><a href="mailto:jocimarjuniorrr@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotcom&logoColor=white"> </a></td>
       <td align="center"><a href="https://t.me/JocimarBJ" target="_blank"> <img src="https://img.shields.io/badge/Telegram-royalblue?style=for-the-badge&logo=telegram&logoColor=white"> </a></td>
-      <td align="center"><a href="https://curriculum-jocimar.vercel.app"><img src="https://img.shields.io/badge/My CV-7f7f7f?style=for-the-badge&logo=googledocs&logoColor=white"></a></td>
-      <td align="center"><a href="https://anyflip.com/vzgmz/bgkh/"><img src="https://img.shields.io/badge/My%20Book-8B633C?style=for-the-badge&logo=gitbook&logoColor=white"></a></td>
-      <td align="center"><a href=""><img src="https://img.shields.io/badge/My%20Degree-c79800?style=for-the-badge&logo=checkmarx&logoColor=white"></a></td>
+      <td align="center"><a href="https://curriculum-jocimar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/My CV-7f7f7f?style=for-the-badge&logo=googledocs&logoColor=white"></a></td>
+      <td align="center"><a href="https://anyflip.com/vzgmz/bgkh/" target="_blank"><img src="https://img.shields.io/badge/My%20Book-8B633C?style=for-the-badge&logo=gitbook&logoColor=white"></a></td>
+      <td align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/My%20Degree-c79800?style=for-the-badge&logo=checkmarx&logoColor=white"></a></td>
     </tr>
   </table>
 
