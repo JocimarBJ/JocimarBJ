@@ -22,7 +22,7 @@
   </table>
 
 <!---------------- STATS AND INFOS ---------------->
-<img width="350" src="https://streak-stats.demolab.com/?user=JocimarBJ&theme=tokyonight&background=2e3440&ring=88c0d0&currStreakLabel=ffffff&currStreakNum=ffffff">  
+<img width="350" src="https://streak-stats.demolab.com?user=JocimarBJ&theme=tokyonight&background=2e3440&ring=88c0d0&currStreakLabel=ffffff&currStreakNum=ffffff">  
 <img width="487" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JocimarBJ&theme=nord_dark" alt="Profile Details"><br>
 <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JocimarBJ&theme=nord_dark&utcOffset=8" alt="Repo per Language">
 <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JocimarBJ&theme=nord_dark&utcOffset=8" alt="Most Commit Language">  
