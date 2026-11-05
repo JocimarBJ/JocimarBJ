@@ -58,6 +58,7 @@ It’s like a puzzle: you start piece by piece, no one understands what’s bein
 <table>
   <thead>
     <tr>
+      <th align="center">Year</th>
       <th align="center">Name</th>
       <th align="center">Image</th>
       <th align="center">Link</th>
@@ -66,8 +67,32 @@ It’s like a puzzle: you start piece by piece, no one understands what’s bein
   </thead>
 
   <tbody>
-
+<!-- Compass UOL -->
   <tr>
+    <td>
+      <p align="center">2026</p>
+    </td>
+    <td align="left">
+      <p align="center">Trainee Data Engineer at UOL</p>
+    </td>
+    <td align="left">
+      <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/21bbc6ad-08c4-4248-9f4d-d522f7f9c1b3" />
+    </td>
+    <td align="center">
+      <a href="https://scholarship.compass.uol/main" title="Scholarship CompassUol AIR Company">Scholarship Compass</a><br>
+      <a href="https://www.linkedin.com/company/compass-uol/posts/?feedView=all" title="LinkedIn Compass Uol">LinkedIn</a>
+    </td>
+    <td align="center">
+      Data Analysis<br>
+      AWS Cloud Data Engineering
+    </td>
+  </tr>
+    
+<!-- O Livro dos Ratos Pensantes -->
+  <tr>
+    <td>
+      <p align="center">2025</p>
+    </td>
     <td align="left">
       <p align="center">Author: The Book of The Thinking Rats</p>
     </td>
@@ -85,43 +110,11 @@ It’s like a puzzle: you start piece by piece, no one understands what’s bein
     </td>
   </tr>
 
+<!-- InteliGente -->
   <tr>
-    <td align="left">
-      <p align="center">Post-Junior (Former Member) of the Unect Junior Enterprise</p>
+    <td>
+      <p align="center">2024 & 2025</p>
     </td>
-    <td align="left">
-      <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/8db151d0-be85-4eda-b7a7-175177a95a3a" />
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/unectjr/">Instagram Official</a><br>
-      <a href="https://www.linkedin.com/company/unectjr/posts/?feedView=all">LinkedIn</a>
-    </td>
-    <td align="center">
-      Web Development<br>
-      Mobile Development<br>
-      Consulting<br>
-      Analysis and Innovation (AI and Big Data)
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left">
-      <p align="center">Data Engineering Internship at Compass UOL</p>
-    </td>
-    <td align="left">
-      <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/21bbc6ad-08c4-4248-9f4d-d522f7f9c1b3" />
-    </td>
-    <td align="center">
-      <a href="https://scholarship.compass.uol/main" title="Scholarship CompassUol AIR Company">Scholarship Compass</a><br>
-      <a href="https://www.linkedin.com/company/compass-uol/posts/?feedView=all" title="LinkedIn Compass Uol">LinkedIn</a>
-    </td>
-    <td align="center">
-      Data Analysis<br>
-      AWS Cloud Data Engineering
-    </td>
-  </tr>
-
-  <tr>
     <td align="left">
       <p align="center">Former Member of the InteliGente Extension Project</p>
     </td>
@@ -137,6 +130,29 @@ It’s like a puzzle: you start piece by piece, no one understands what’s bein
       Development<br>
       Global Social Impact<br>
       Democratization of AI
+    </td>
+  </tr>
+
+<!-- Unect JR. -->
+  <tr>
+    <td>
+      <p align="center">2024</p>
+    </td>
+    <td align="left">
+      <p align="center">Post-Junior (Former Member) of the Unect Junior Enterprise</p>
+    </td>
+    <td align="left">
+      <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/8db151d0-be85-4eda-b7a7-175177a95a3a" />
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/unectjr/">Instagram Official</a><br>
+      <a href="https://www.linkedin.com/company/unectjr/posts/?feedView=all">LinkedIn</a>
+    </td>
+    <td align="center">
+      Web Development<br>
+      Mobile Development<br>
+      Consulting<br>
+      Analysis and Innovation (AI and Big Data)
     </td>
   </tr>
 
